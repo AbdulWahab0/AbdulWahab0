@@ -98,24 +98,18 @@ Please take a look around!<br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Portfolio&theme=vue  " />
 </a>
 
-<h3>Software Testing </h3>
-<a href="https://github.com/pirasanthan-jesugeevegan/dev-weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-weather-app&theme=vue  " />
-</a>
-<a href="https://github.com/pirasanthan-jesugeevegan/dev-restful-api-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-restful-api-shop&theme=vue  " />
-</a>
-<a href="https://github.com/pirasanthan-jesugeevegan/dev-task-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-task-tracker&theme=vue  " />
-</a>
+
+
 
 <h3>Dev </h3>
-<a href="https://github.com/pirasanthan-jesugeevegan/dev-weather-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-weather-app&theme=vue  " />
+<a href="https://github.com/AbdulWahab0/Pizza-Shop">Movies-App-React
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Pizza-Shop&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/dev-restful-api-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-restful-api-shop&theme=vue  " />
+
+<a href="https://github.com/AbdulWahab0/corona_tracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=corona_tracker&theme=vue  " />
 </a>
-<a href="https://github.com/pirasanthan-jesugeevegan/dev-task-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pirasanthan-jesugeevegan&repo=dev-task-tracker&theme=vue  " />
+<a href="https://github.com/AbdulWahab0/Movies-App-React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=corona_tracker&theme=vue  " />
 </a>
+
