@@ -56,7 +56,7 @@ Please take a look around!<br>
 
 <h3>What I do? 👨‍💻</h3>
 <details>
-<summary>Software Teste Engineer</summary>
+<summary>Software Test Engineer</summary>
 </details>
 <details>
 <summary>Front-End Developer 🍥 </summary>
