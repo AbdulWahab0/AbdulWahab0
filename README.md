@@ -23,8 +23,7 @@ Please take a look around!<br>
 **Talking about Personal Stuffs:** ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbdulWahab0)
 
 
-- 🏢 I'm currently working at **ONCARE, MUNICH** 
-- ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.java.`, `.feature`
+- 🏢 I'm currently working at Software Test Engineer  **ONCARE, MUNICH** 
 - 🌍 I'm mostly active on [Instagram](https://www.instagram.com/abdul_wahab099/)
 - 🌱 Learning all about **Automation**
 - 💬 Ping me about **Development**, **Automation**, **Test Script**, **Test Cases**, **Design**
