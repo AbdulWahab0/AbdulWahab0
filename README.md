@@ -51,6 +51,35 @@ Please take a look around!<br>
 <img src="https://img.shields.io/badge/-Selenium-green?&style=flat-square&logo=selenium&color=green" />
 <img src="https://img.shields.io/badge/-Cucumber-green?&style=flat-square&logo=selenium&color=success" />
 
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/AbdulWahab0/Portfolio"><b>Portfolio(CV)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdulWahab0/Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdulWahab0/Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdulWahab0/Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbdulWahab0/Portfolio?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/AbdulWahab0/Pizza-Shop"><b>Pizza-Shop</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=AbdulWahab0&count_private=true&show_icons=true&include_all_commits=true&theme=vue  )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWahab0&hide=TeX&layout=compact&theme=vue  )
 
