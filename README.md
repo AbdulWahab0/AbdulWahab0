@@ -31,6 +31,7 @@ Please take a look around!<br>
 - 📝[Resume](http://pirasanth.com/Pirasanthan_Jesugeevegan_CV.pdf)
 
 **Languages and Tools:**  
+<p>
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white&color=yellow"/>
@@ -49,6 +50,7 @@ Please take a look around!<br>
 <img src="https://img.shields.io/badge/-Cypress-grey?&style=flat-square&logo=cypress&color=grey" />
 <img src="https://img.shields.io/badge/-Selenium-green?&style=flat-square&logo=selenium&color=green" />
 <img src="https://img.shields.io/badge/-Cucumber-green?&style=flat-square&logo=selenium&color=success" />
+	</p>
 
 <h3>Open source projects</h3>
 <table>
