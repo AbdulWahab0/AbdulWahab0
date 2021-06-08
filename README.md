@@ -28,7 +28,7 @@ Please take a look around!<br>
 - 🌱 Learning all about **Automation**
 - 💬 Ping me about **Development**, **Automation**, **Test Script**, **Test Cases**, **Design**
 - ⚡️ Fun fact: Running my own youtube channel 
-- 📝[Resume]()
+- 📝[Resume](https://drive.google.com/file/d/1723NlOPOPuBVnbyAVCG436VWZ3Mhkyip/view?usp=sharing)
 
 **Languages and Tools:**  
 <p>
