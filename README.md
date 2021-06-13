@@ -124,8 +124,8 @@ Please take a look around!<br>
 
 <h2>💻 Check Out My Repos ⬇️ </h2>
 <h3>Portfolio</h3>
-<a href="https://github.com/AbdulWahab0/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=Portfolio&theme=vue  " />
+<a href="https://github.com/AbdulWahab0/abdul.wahab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbdulWahab0&repo=abdul.wahab&theme=vue  " />
 </a>
 
 
