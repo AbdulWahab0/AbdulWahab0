@@ -117,7 +117,7 @@ Please take a look around!<br>
 <ul>
   <li>Subscribe to my <a href="#">YouTube Channel (coming soon)</a>.</li>
   <li>You can Star ⭐ the repositories you like.</li>
-  <li>You can react ❤️ to my LinkedIn posts.</li>
+  <li>You can react ❤️ to my LinkedIn posts..!!</li>
 </ul>
 
 
