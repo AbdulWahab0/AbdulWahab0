@@ -8,7 +8,6 @@ Please take a look around!<br>
 **QA Enginner** | **Front-End Developer** | **Automation** 
 </p>
 
-<a href="https://www.linkedin.com/in/abdul-wahab-750174103/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/AbdulWahab0"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="mailto:wahab3060@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/Abdul99860802"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
