@@ -49,13 +49,6 @@ Please take a look around!<br>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/AbdulWahab0/abdul.wahab"><b>Portfolio(CV)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/AbdulWahab0/abdul.wahab?style=flat-square&labelColor=343b41"/></td>
-    </tr>
 	  <tr>
       <td><a href="https://github.com/AbdulWahab0/Pizza-Shop"><b>Pizza-Shop</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/AbdulWahab0/Pizza-Shop?style=flat-square&labelColor=343b41"/></td>
